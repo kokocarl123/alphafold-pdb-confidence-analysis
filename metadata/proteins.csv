@@ -1,0 +1,4 @@
+protein,gene,organism,uniprot_id,pdb_id,experimental_chain,state,expected_uniprot_length
+Carbonic anhydrase II,CA2,Homo sapiens,P00918,2CBA,A,native,260
+Thioredoxin,TXN,Homo sapiens,P10599,1ERT,A,reduced,105
+Adenylate kinase,adk,Escherichia coli K-12,P69441,4AKE,A,unligated,214
