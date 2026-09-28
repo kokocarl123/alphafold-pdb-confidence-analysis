@@ -1,0 +1,4 @@
+protein,uniprot_id,pdb_id,canonical_length,mapped_residues,unmapped_count,unmapped_positions,aa_mismatches
+Carbonic anhydrase II,P00918,2CBA,260,258,2,"1,2",0
+Thioredoxin,P10599,1ERT,105,105,0,,0
+Adenylate kinase,P69441,4AKE,214,214,0,,0
